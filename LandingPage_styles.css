@@ -147,11 +147,11 @@ body {
     
     margin-top: 10px;
     color: white;
-    height: 50px;
+    height: 30px;
     border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
-    width: 1200px;
+    width: 1000px;
     
 }
 
@@ -183,7 +183,7 @@ body {
     border-color: white;
     padding: 10px;
     border-radius: 10px;
-    margin-left: 500px;
+    margin-left: 200px;
     height: 70x;
     width: 130px;
     text-align: center;
